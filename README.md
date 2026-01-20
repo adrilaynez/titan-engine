@@ -2,7 +2,7 @@
 
 **A high-performance LLM Inference Engine written in C++ and CUDA.**
 
-![License](https://img.shields.io/github/license/TU_USUARIO/titan-engine)
+![License](https://img.shields.io/github/license/adrilaynez/titan-engine)
 ![Status](https://img.shields.io/badge/Status-Active_Development-green)
 ![Language](https://img.shields.io/badge/Language-C++_%7C_CUDA_%7C_Python-blue)
 
