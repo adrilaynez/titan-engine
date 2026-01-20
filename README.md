@@ -32,4 +32,4 @@ Titan Engine is an educational yet performant project aiming to build a GPT-2 in
 - **Architecture:** Transformer (Decoder-only)
 
 ---
-*Author: [Tu Nombre]*
+*Author: Adrian Laynez Ortiz*
