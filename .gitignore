@@ -39,3 +39,20 @@
 
 # debug information files
 *.dwo
+
+# --- Python Additions ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.ipynb_checkpoints/
+.DS_Store
+
+# --- Project Specific ---
+# Ignorar datasets grandes o pesos de modelos (Github tiene limite de 100MB)
+data/*.bin
+data/*.txt
+!data/.gitkeep
+desktop.ini
