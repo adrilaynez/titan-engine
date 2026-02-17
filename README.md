@@ -1,5 +1,11 @@
 # Titan Engine 🚀
 
+# 🏗️ Titan Engine: LLM Research Sandbox
+
+> **⚠️ NOTE:** This repository serves as the experimental backend for raw model implementations. 
+> For the interactive visualization, mechanistic interpretability, and "Glass Box" analysis of these models, please visit the **[LM-Lab](https://github.com/adrilaynez/LM-Lab)** repository.
+
+---
 **A high-performance LLM Inference Engine written in C++ and CUDA.**
 
 ![License](https://img.shields.io/github/license/adrilaynez/titan-engine)
